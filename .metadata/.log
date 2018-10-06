@@ -4276,3 +4276,1194 @@ Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:04:47.445
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.wzuQRvmQ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:44.370
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.YrifOrWv
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:44.371
+!MESSAGE subscribing to classpath changes: sts4.classpath.YrifOrWv
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:44.372
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:44.372
+!MESSAGE subsribers = [sts4.classpath.YrifOrWv]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:44.373
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:44.374
+!MESSAGE project DisplayDate ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:44.375
+!MESSAGE project Counter ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:44.375
+!MESSAGE Preparing classpath changed notification DisplayDate
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:44.375
+!MESSAGE project FristDemo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:44.376
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:44.377
+!MESSAGE project HelloHuman ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:44.378
+!MESSAGE project RoutingAssignment ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:44.380
+!MESSAGE project StringsAssignment ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:44.382
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:44.383
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.YrifOrWv => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:44.383
+!MESSAGE classpath=80 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:44.384
+!MESSAGE executing callback sts4.classpath.YrifOrWv DisplayDate false 80
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:45.066
+!MESSAGE executing callback sts4.classpath.YrifOrWv SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:45.066
+!MESSAGE Preparing classpath changed notification StringsAssignment
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:45.067
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:45.075
+!MESSAGE classpath=77 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:45.076
+!MESSAGE executing callback sts4.classpath.YrifOrWv StringsAssignment false 77
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:46.610
+!MESSAGE executing callback sts4.classpath.YrifOrWv SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:46.610
+!MESSAGE Preparing classpath changed notification RoutingAssignment
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:46.611
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:46.616
+!MESSAGE classpath=77 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:46.616
+!MESSAGE executing callback sts4.classpath.YrifOrWv RoutingAssignment false 77
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:46.875
+!MESSAGE executing callback sts4.classpath.YrifOrWv SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:46.875
+!MESSAGE Preparing classpath changed notification HelloHuman
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:46.876
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:46.881
+!MESSAGE classpath=77 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:46.882
+!MESSAGE executing callback sts4.classpath.YrifOrWv HelloHuman false 77
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:46.906
+!MESSAGE executing callback sts4.classpath.YrifOrWv SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:46.907
+!MESSAGE Preparing classpath changed notification FristDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:46.907
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:46.913
+!MESSAGE classpath=77 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:46.913
+!MESSAGE executing callback sts4.classpath.YrifOrWv FristDemo false 77
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:46.925
+!MESSAGE executing callback sts4.classpath.YrifOrWv SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:46.928
+!MESSAGE Preparing classpath changed notification Counter
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:46.929
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:46.934
+!MESSAGE classpath=80 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:46.935
+!MESSAGE executing callback sts4.classpath.YrifOrWv Counter false 80
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:16:46.986
+!MESSAGE executing callback sts4.classpath.YrifOrWv SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:17:28.078
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	DisplayDate[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			com.display.date[*]: {CHILDREN}
+				Index.java[*]: {CONTENT | FINE GRAINED | PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:17:28.083
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.YrifOrWv
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:17:28.083
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.YrifOrWv
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:17:28.083
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 19:17:28.084
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.YrifOrWv => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:02.952
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.bckbDTVl
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:02.954
+!MESSAGE subscribing to classpath changes: sts4.classpath.bckbDTVl
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:02.954
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:02.955
+!MESSAGE subsribers = [sts4.classpath.bckbDTVl]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:02.955
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.101
+!MESSAGE project TheCode ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.102
+!MESSAGE project Counter ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.102
+!MESSAGE project DisplayDate ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.103
+!MESSAGE Preparing classpath changed notification TheCode
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.103
+!MESSAGE project FristDemo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.104
+!MESSAGE project HelloHuman ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.104
+!MESSAGE project RoutingAssignment ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.104
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.105
+!MESSAGE project StringsAssignment ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.105
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.106
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.bckbDTVl => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.115
+!MESSAGE classpath=77 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.115
+!MESSAGE executing callback sts4.classpath.bckbDTVl TheCode false 77
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.189
+!MESSAGE executing callback sts4.classpath.bckbDTVl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.189
+!MESSAGE Preparing classpath changed notification StringsAssignment
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.190
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.193
+!MESSAGE classpath=77 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.194
+!MESSAGE executing callback sts4.classpath.bckbDTVl StringsAssignment false 77
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.212
+!MESSAGE executing callback sts4.classpath.bckbDTVl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.213
+!MESSAGE Preparing classpath changed notification RoutingAssignment
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.213
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.216
+!MESSAGE classpath=77 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.218
+!MESSAGE executing callback sts4.classpath.bckbDTVl RoutingAssignment false 77
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.232
+!MESSAGE executing callback sts4.classpath.bckbDTVl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.232
+!MESSAGE Preparing classpath changed notification HelloHuman
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.233
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.237
+!MESSAGE classpath=77 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.237
+!MESSAGE executing callback sts4.classpath.bckbDTVl HelloHuman false 77
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.250
+!MESSAGE executing callback sts4.classpath.bckbDTVl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.250
+!MESSAGE Preparing classpath changed notification FristDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.251
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.254
+!MESSAGE classpath=77 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.254
+!MESSAGE executing callback sts4.classpath.bckbDTVl FristDemo false 77
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.281
+!MESSAGE executing callback sts4.classpath.bckbDTVl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.282
+!MESSAGE Preparing classpath changed notification DisplayDate
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.282
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.286
+!MESSAGE classpath=80 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.286
+!MESSAGE executing callback sts4.classpath.bckbDTVl DisplayDate false 80
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.295
+!MESSAGE executing callback sts4.classpath.bckbDTVl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.297
+!MESSAGE Preparing classpath changed notification Counter
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.298
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.303
+!MESSAGE classpath=80 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.303
+!MESSAGE executing callback sts4.classpath.bckbDTVl Counter false 80
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:03.313
+!MESSAGE executing callback sts4.classpath.bckbDTVl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:15.272
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/resources[*]: {CONTENT}
+			ResourceDelta(/TheCode/src/main/resources/application.properties)[*]
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:16.019
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:19.233
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.bckbDTVl
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:19.233
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.bckbDTVl
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:19.234
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:12:19.234
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.bckbDTVl => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:45.563
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.eCEHmLMn
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:45.564
+!MESSAGE subscribing to classpath changes: sts4.classpath.eCEHmLMn
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:45.564
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:45.564
+!MESSAGE subsribers = [sts4.classpath.eCEHmLMn]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:45.564
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:45.565
+!MESSAGE project TheCode ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:45.566
+!MESSAGE project Counter ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:45.566
+!MESSAGE Preparing classpath changed notification TheCode
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:45.566
+!MESSAGE project DisplayDate ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:45.566
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:45.567
+!MESSAGE project FristDemo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:45.567
+!MESSAGE project HelloHuman ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:45.567
+!MESSAGE project RoutingAssignment ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:45.568
+!MESSAGE project StringsAssignment ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:45.570
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:45.571
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.eCEHmLMn => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:45.571
+!MESSAGE classpath=80 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:45.572
+!MESSAGE executing callback sts4.classpath.eCEHmLMn TheCode false 80
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:46.239
+!MESSAGE executing callback sts4.classpath.eCEHmLMn SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:46.240
+!MESSAGE Preparing classpath changed notification StringsAssignment
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:46.241
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:46.244
+!MESSAGE classpath=77 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:46.244
+!MESSAGE executing callback sts4.classpath.eCEHmLMn StringsAssignment false 77
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:46.256
+!MESSAGE executing callback sts4.classpath.eCEHmLMn SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:46.256
+!MESSAGE Preparing classpath changed notification RoutingAssignment
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:46.257
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:46.260
+!MESSAGE classpath=77 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:46.261
+!MESSAGE executing callback sts4.classpath.eCEHmLMn RoutingAssignment false 77
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:47.471
+!MESSAGE executing callback sts4.classpath.eCEHmLMn SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:47.472
+!MESSAGE Preparing classpath changed notification HelloHuman
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:47.472
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:47.477
+!MESSAGE classpath=77 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:47.477
+!MESSAGE executing callback sts4.classpath.eCEHmLMn HelloHuman false 77
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:47.511
+!MESSAGE executing callback sts4.classpath.eCEHmLMn SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:47.512
+!MESSAGE Preparing classpath changed notification FristDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:47.512
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:47.515
+!MESSAGE classpath=77 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:47.516
+!MESSAGE executing callback sts4.classpath.eCEHmLMn FristDemo false 77
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:47.788
+!MESSAGE executing callback sts4.classpath.eCEHmLMn SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:47.788
+!MESSAGE Preparing classpath changed notification DisplayDate
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:47.789
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:47.792
+!MESSAGE classpath=80 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:47.793
+!MESSAGE executing callback sts4.classpath.eCEHmLMn DisplayDate false 80
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:48.032
+!MESSAGE executing callback sts4.classpath.eCEHmLMn SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:48.033
+!MESSAGE Preparing classpath changed notification Counter
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:48.033
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:48.037
+!MESSAGE classpath=80 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:48.037
+!MESSAGE executing callback sts4.classpath.eCEHmLMn Counter false 80
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:16:48.048
+!MESSAGE executing callback sts4.classpath.eCEHmLMn SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:17:31.429
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:17:31.687
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:17:37.681
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:17:37.826
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:18:20.571
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:18:20.710
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:18:39.390
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:18:41.753
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:18:42.040
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			<default>[*]: {CHILDREN}
+				[Working copy] __2F_TheCode_2F_src_2F_main_2F_webapp_2F_WEB_2D_INF_2F_index_2E_jsp.java[+]: {}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:19:21.525
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:20:14.350
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:21:20.039
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:21:44.270
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:22:24.491
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:22:30.886
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:23:06.931
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:23:14.688
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:24:01.558
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:24:26.905
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:24:43.719
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:24:48.534
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:25:30.346
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:26:29.590
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:26:57.698
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:27:04.606
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:27:41.991
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:27:50.417
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:28:27.447
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:28:37.268
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:28:48.868
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:29:19.524
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:29:37.753
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:31:04.558
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:31:04.746
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:31:56.277
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:31:57.171
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:32:29.039
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {CHILDREN | FINE GRAINED | PRIMARY RESOURCE}
+					Index[*]: {CHILDREN | FINE GRAINED}
+						check(String)[+]: {}
+						check()[-]: {}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:32:29.182
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:32:44.123
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:32:44.577
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:34:00.355
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:34:01.182
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:36:52.443
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:36:52.586
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:36:56.713
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:36:56.849
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:39:41.358
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:39:42.187
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:39:42.932
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:39:43.219
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:39:47.359
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:39:47.491
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:39:59.092
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:39:59.823
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:40:37.333
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:40:53.037
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:44:01.532
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:44:08.342
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:44:08.483
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:44:44.470
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:44:44.926
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:44:49.192
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:44:49.442
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:45:31.743
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:45:31.889
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:46:48.720
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:46:49.071
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:47:45.530
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:47:45.796
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:48:29.710
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:48:29.851
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:48:45.144
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:48:45.837
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:48:56.252
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:48:56.382
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:49:04.153
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:49:04.968
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:49:38.795
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:49:38.963
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			<default>[*]: {CHILDREN}
+				[Working copy] __2F_TheCode_2F_src_2F_main_2F_webapp_2F_WEB_2D_INF_2F_code_2E_jsp.java[+]: {}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:49:38.974
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			<default>[*]: {CHILDREN}
+				[Working copy] __2F_TheCode_2F_src_2F_main_2F_webapp_2F_WEB_2D_INF_2F_code_2E_jsp.java[-]: {}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:49:39.524
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			<default>[*]: {CHILDREN}
+				[Working copy] __2F_TheCode_2F_src_2F_main_2F_webapp_2F_WEB_2D_INF_2F_code_2E_jsp.java[+]: {}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:49:49.086
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:50:06.304
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:50:26.889
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:51:05.976
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:51:06.111
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:52:24.408
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:52:24.541
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:53:35.915
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:53:36.640
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:55:15.602
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.eclipse.jface.text 2 0 2018-10-05 20:55:28.488
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:55:45.087
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:55:57.953
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:57:59.815
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:59:15.074
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:59:17.221
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 20:59:54.871
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 21:00:05.939
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 21:00:06.161
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 21:00:59.034
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 21:00:59.166
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 21:02:08.999
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 21:02:09.137
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 21:02:20.014
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 21:02:20.241
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 21:02:27.587
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 21:02:27.835
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 21:02:35.617
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {CHILDREN | FINE GRAINED | PRIMARY RESOURCE}
+					Index[*]: {CHILDREN | FINE GRAINED}
+						check(String, RedirectAttributes, HttpSession)[+]: {}
+						check(String, RedirectAttributes, HttpSession, Model)[-]: {}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 21:02:35.755
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 21:02:39.578
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 21:02:39.716
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 21:02:43.700
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.the.code[*]: {CHILDREN}
+				[Working copy] Index.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 21:02:44.163
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 21:03:31.184
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 21:03:34.576
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-05 21:03:59.835
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	TheCode[*]: {CONTENT}
+		ResourceDelta(/TheCode/src)[*]]

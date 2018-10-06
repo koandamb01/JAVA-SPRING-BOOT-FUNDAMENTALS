@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+*{
+	outline: 1px solid red;
+}
+
+.container{
+	width: 80%;
+	margin: 100px auto;
+}
+
+a{
+	display: inline-block;
+}
+
+

@@ -1,0 +1,10 @@
+package com.counter;
+
+@Controller
+public class Index {
+	
+	@RequestMapping("/")
+	public String index() {
+		return "index.jsp";
+	}
+}

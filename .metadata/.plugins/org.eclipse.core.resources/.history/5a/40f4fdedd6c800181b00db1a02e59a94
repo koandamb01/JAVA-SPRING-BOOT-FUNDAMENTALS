@@ -1,0 +1,12 @@
+package com.routing.assignment;
+
+@RestController
+@RequestMapping("/med")
+public class CodingController {
+	
+	@RequestMapping("/")
+	public String Index() {
+		return "Hello med what's up?";
+	}
+	
+}

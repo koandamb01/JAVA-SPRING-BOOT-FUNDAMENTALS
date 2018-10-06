@@ -1,0 +1,10 @@
+package com.routing.assignment;
+
+@RestController
+public class DojoController {
+	
+	@RequestMapping("/")
+	public String Index() {
+		return null
+	}
+}

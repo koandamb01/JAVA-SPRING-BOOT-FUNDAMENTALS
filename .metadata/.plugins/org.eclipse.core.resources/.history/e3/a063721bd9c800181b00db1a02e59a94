@@ -1,0 +1,25 @@
+package com.routing.assignment;
+
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class DojoController {
+	
+	@RequestMapping("/dojo/{city}")
+	public String Index(@PathVariable("track") String city) {
+		String out;
+		
+		if(city.equals("dojo")) {
+			out = "The dojo is awesome!";
+		}
+		else if(city.equals("burkina-faso")) {
+			out = "Burkina Faso is the best country in the world!"
+		}
+		
+		
+		return "The dojo is awesome";
+	}
+	
+}

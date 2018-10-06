@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+
+.container{
+	width: 80%;
+	text-align: center;
+	margin: 100px auto;
+}
+
+a{
+	display: inline-block;
+	font-size: 2rem;
+}
+
+a:nth-child(1){
+	margin-right: 300px;
+}
+
+.blue{
+	color: blue;
+}
+
+.green{
+	color: green;
+}
+
+

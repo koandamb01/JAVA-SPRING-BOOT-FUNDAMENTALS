@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+
+.container{
+	width: 80%;
+	text-align: center;
+	margin:auto;
+}
+
+a{
+	marign: 300px;
+}
+
+
